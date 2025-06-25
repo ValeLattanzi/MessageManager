@@ -6,3 +6,4 @@ riderModule.iml
 
 MessageManager/appsettings.Development.json
 MessageManager/logs/
+.idea/
