@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageManager", "MessageManager\MessageManager.csproj", "{A624B917-D471-4D53-95D7-416B09AB4710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "result-pattern", "..\result-pattern\result-pattern.csproj", "{DE8DA1FF-BC29-4618-8C62-744EE7182672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A624B917-D471-4D53-95D7-416B09AB4710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A624B917-D471-4D53-95D7-416B09AB4710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A624B917-D471-4D53-95D7-416B09AB4710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A624B917-D471-4D53-95D7-416B09AB4710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8DA1FF-BC29-4618-8C62-744EE7182672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8DA1FF-BC29-4618-8C62-744EE7182672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8DA1FF-BC29-4618-8C62-744EE7182672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8DA1FF-BC29-4618-8C62-744EE7182672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
